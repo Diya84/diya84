@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya</h1>
 <h3 align="center">A passionate web developer and machine learning enthusiast who is constantly keen to learn new technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diya84" alt="diya84" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/diya_sarax" target="blank"><img src="https://img.shields.io/twitter/follow/diya_sarax?logo=twitter&style=for-the-badge" alt="diya_sarax" /></a> </p>
 
