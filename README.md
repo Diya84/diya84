@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Vidaseed](https://github.com/Diya84/vidaseed)
 
-- 🌱 I’m currently learning **Apache flink**
+- 🌱 I’m currently learning **Apache Hadoop**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diya84](https://github.com/Diya84)
 
